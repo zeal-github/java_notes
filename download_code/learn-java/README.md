@@ -1,2 +1,0 @@
-# Repo for Java practice
-
